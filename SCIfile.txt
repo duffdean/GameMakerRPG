@@ -1,4 +1,2 @@
-duffdean
 -1
-21second
 True
